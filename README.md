@@ -1,0 +1,2 @@
+# kingbot-pages
+Kingbot documentation
